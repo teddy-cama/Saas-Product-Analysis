@@ -6,7 +6,7 @@ An end-to-end analytics project for a fictional SaaS company, built to **learn S
 
 > The data is synthetic. Treat the findings as practice in method, not as real business results.
 
-![Executive Overview](Saas Product Analysis\screenshots and recordings\01_Executive Overview.png)
+![Executive Overview](screenshots%20and%20recordings/01_Executive%20Overview.png)
 
 ---
 
@@ -111,8 +111,8 @@ Added `signup_month`, `paid_month`, `Activation Status` and a sort-order column 
 
 | | |
 |---|---|
-| ![Acquisition](screenshots/02_acquisition_funnel.png) | ![Retention](screenshots/03_retention.png) |
-| ![Usage](screenshots/04_product_usage.png) | ![Support](screenshots/05_customer_support.png) |
+| ![Acquisition](screenshots%20and%20recordings/02_Acquisition%20and%20Funnel.png) | ![Retention](screenshots%20and%20recordings/03_Rentention.png) |
+| ![Usage](screenshots%20and%20recordings/04_Customer%20Health%20and%20Product%20Usage.png) | ![Support](screenshots%20and%20recordings/05_Customer%20Support.png) |
 
 > Slicers change the charts but not the text boxes. The text on each page describes the period shown in the screenshot.
 
@@ -190,4 +190,4 @@ Added `signup_month`, `paid_month`, `Activation Status` and a sort-order column 
 
 ---
 
-Built by Chris. Write-up and more projects: [LinkedIn link] | [Twitter/X link]
+Built by Christian Anointed
