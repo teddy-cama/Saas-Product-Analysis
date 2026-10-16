@@ -6,7 +6,7 @@ An end-to-end analytics project for a fictional SaaS company, built to **learn S
 
 > The data is synthetic. Treat the findings as practice in method, not as real business results.
 
-![Executive Overview](screenshots/01_executive_overview.png)
+![Executive Overview](Saas Product Analysis\screenshots and recordings\01_Executive Overview.png)
 
 ---
 
