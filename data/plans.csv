@@ -1,0 +1,4 @@
+plan,price_per_seat_monthly,max_seats,annual_discount
+Starter,12,10,0.2
+Pro,29,50,0.2
+Business,49,500,0.2
